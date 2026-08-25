@@ -1,0 +1,10 @@
+{
+  "name": "cloud-lab2-cicd",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static web app for Cloud Lab 2 CI/CD",
+  "scripts": {
+    "test": "node scripts/test.js",
+    "build": "node scripts/build.js"
+  }
+}
